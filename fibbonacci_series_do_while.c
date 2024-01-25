@@ -14,3 +14,7 @@ void main(){
 	}
 	while(i<=n);
 }
+//START
+//READ n
+//DISPLAY FIBONNACI TILL N
+//STOP
